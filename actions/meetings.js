@@ -69,7 +69,7 @@ export async function cancelMeeting(meetingId) {
   }
 
   // Cancel the meeting in Google Calendar
-  const { data } = await clerkClient.users.getUserOauthAccessToken(
+  const { data } = await clerkClient().users.getUserOauthAccessToken(
     meeting.user.clerkUserId,
     "oauth_google"
   );
