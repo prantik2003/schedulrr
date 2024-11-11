@@ -1,4 +1,5 @@
-# Full Stack Calendly Clone with Next JS, React, Tailwind CSS, Prisma, Neon, Clerk, Shadcn UI 
+# Schedulrr 
+A Full Stack Calendly Clone built with ReacJS, NextJs, Tailwind CSS & Shadcn UI as Front-End ; NodeJS as Back-End ; Prisma & NeonDB for Database ; Clerk for Authentication ; Google Calendar API for accessing real time calendar and generating Google meet links as well as notifications by mail
 
 https://github.com/user-attachments/assets/09111762-21d1-4c94-a2cf-491ab2a963c9
 
