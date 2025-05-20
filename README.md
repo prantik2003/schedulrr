@@ -1,5 +1,5 @@
 # Schedulrr 
-A Full Stack meeting scheduling platform built with React JS, Next Js, Tailwind CSS & Shadcn UI as Front-End ; Node JS & Express JS as Back-End ; Prisma & NeonDB (a provider for Postgres) for Database ; Clerk for Authentication ; Google Calendar API for accessing real time calendar and generating Google meet links as well as notifications by mail
+A Full Stack meeting scheduling platform built with Next Js, Tailwind CSS & Shadcn UI as Front-End ; Node JS & Express JS as Back-End ; Prisma & NeonDB (a provider for Postgres) for Database ; Clerk for Authentication ; Google Calendar API for accessing real time calendar and generating Google meet links as well as notifications by mail
 
 https://github.com/user-attachments/assets/09111762-21d1-4c94-a2cf-491ab2a963c9
 
